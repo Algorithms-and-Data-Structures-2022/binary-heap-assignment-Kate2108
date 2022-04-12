@@ -75,7 +75,7 @@ namespace assignment {
     sift_up(index);
 
     Extract();
-    
+
     return true;
   }
 
